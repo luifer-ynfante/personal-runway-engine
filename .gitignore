@@ -1,0 +1,12 @@
+# Datos personales y sensibles
+*.xlsx
+*.xls
+data/real/
+data/*_privado.csv
+
+# Archivos temporales de Python y sistema
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db

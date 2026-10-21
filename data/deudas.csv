@@ -1,0 +1,3 @@
+id_deuda,acreedor,tipo_deuda,saldo_pendiente,tae_porcentaje,cuota_mensual,dia_vencimiento
+1,Tarjeta Credito,Revolving,850.00,19.99,65.00,5
+2,Prestamo Personal,Consumo,1800.00,8.50,110.00,1
