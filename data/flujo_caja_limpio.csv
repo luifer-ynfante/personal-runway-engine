@@ -1,0 +1,4 @@
+categoria,concepto,tipo_movimiento,monto,dia_mes
+Ingresos,Prestacion SEPE,Ingreso,550.0,10
+Suministros,Luz y Gas,Gasto Fijo,90.0,12
+Supervivencia,Supermercado,Gasto Variable,45.5,15
