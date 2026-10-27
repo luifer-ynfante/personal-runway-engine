@@ -1,4 +1,54 @@
-categoria,concepto,tipo_movimiento,monto,dia_mes
-Ingresos,Prestacion SEPE,Ingreso,550.0,10
-Suministros,Luz y Gas,Gasto Fijo,90.0,12
-Supervivencia,Supermercado,Gasto Variable,45.5,15
+﻿categoria,concepto,tipo_movimiento,monto,dia_mes
+Otros,COMISIÓN DIVISA NO EURO,Ingreso Raro,1.57,27
+Otros,DEVOLUCION TAR.5402XXXXXXXX7019 27.10 GFM*GOFUNDME GOFNDME V-GOFUNDME.COM,Ingreso Raro,44.83,27
+Gastos Excepcionales,Error LinkedIn (Reclamado),Gasto Evitable,179.88,26
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,30.0,26
+Ingresos,Bizum Recibido,Ingreso Variable,160.0,26
+Supervivencia,Transporte,Gasto Necesario,7.3,26
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,50.0,26
+Otros,REINTEGRO CAJERO AUTOMATICO 5402XXXXXXXX7019 24.10,Gasto No Identificado,20.0,26
+Otros,COMPRA TARJ. 5402XXXXXXXX7019 BASAR O BAZAR-MADRID,Gasto No Identificado,4.99,26
+Otros,PARA AHORRO SABADELL,Gasto No Identificado,0.93,26
+Ocio (Fuga),Comida a Domicilio/Fast Food,Gasto Evitable,6.99,26
+Otros,COMPRA TARJ. 5402XXXXXXXX7019 EL IBU-MADRID,Gasto No Identificado,7.0,23
+Ocio (Fuga),Comida a Domicilio/Fast Food,Gasto Evitable,12.95,23
+Supervivencia,Transporte,Gasto Necesario,3.0,23
+Ocio (Fuga),Cafetería/Antojos,Gasto Evitable,4.9,22
+Supervivencia,Transporte,Gasto Necesario,3.0,22
+Suministros,Luz y Gas,Gasto Fijo,80.27,22
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,100.0,21
+Ocio (Fuga),Cafetería/Antojos,Gasto Evitable,6.0,20
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,50.0,19
+Ocio (Fuga),Comida a Domicilio/Fast Food,Gasto Evitable,33.96,19
+Ocio (Fuga),Juegos y Suscripciones,Gasto Evitable,4.99,19
+Ingresos,Bizum Recibido,Ingreso Variable,17.0,19
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,50.0,19
+Otros,PARA AHORRO SABADELL,Gasto No Identificado,1.36,19
+Ingresos,Bizum Recibido,Ingreso Variable,200.0,19
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,200.0,16
+Otros,COMPRA TARJ. 5402XXXXXXXX7019 VG BAMI-MADRID,Gasto No Identificado,5.9,16
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,10.0,16
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,50.0,15
+Otros,ABONO POR DOMICILIACIÓN DE RECIBOS,Ingreso Raro,4.68,15
+Otros,REMUN. MES CTA ONLINE SABADELL,Ingreso Raro,0.16,15
+Deudas,Cuota Préstamo,Gasto Fijo,59.5,13
+Ingresos,Nómina,Ingreso Fijo,805.06,12
+Ingresos,Bizum Recibido,Ingreso Variable,37.0,13
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,101.24,13
+Otros,ABONO TRANSFERENCIA DE LUIS FERNANDO YNFANTE ADAMES,Ingreso Raro,200.0,13
+Otros,PARA AHORRO SABADELL,Gasto No Identificado,0.84,13
+Legal,Abogado Despido,Gasto Excepcional,423.5,9
+Otros,ABONO TRANSFERENCIA DE LUIS FERNANDO YNFANTE ADAMES,Ingreso Raro,400.0,8
+Deudas,Cuota Préstamo,Gasto Fijo,120.8,8
+Otros,ABONO TRANSFERENCIA DE LUIS FERNANDO YNFANTE ADAMES,Ingreso Raro,100.0,8
+Suministros,Luz y Gas,Gasto Fijo,22.46,8
+Ocio (Fuga),Comida a Domicilio/Fast Food,Gasto Evitable,20.9,6
+Deudas,Cuota Préstamo,Gasto Fijo,75.45,6
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,3.0,5
+Otros,PARA AHORRO SABADELL,Gasto No Identificado,4.86,5
+Formación,Software y Upskilling,Gasto Fijo,2.0,2
+Ocio (Fuga),Bizum a amigos,Gasto Evitable,6.0,2
+Otros,COMPRA TARJ. 5402XXXXXXXX7019 EASY VENDING-SPAIN,Gasto No Identificado,1.0,1
+Salud,Seguro Médico,Gasto Fijo,54.0,1
+Ingresos,Bizum Recibido,Ingreso Variable,90.0,1
+Otros,COMPRA TARJ. 5402XXXXXXXX7019 WWW.AMAZON-LUXEMBOURG,Gasto No Identificado,91.45,1
